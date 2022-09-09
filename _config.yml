@@ -2,8 +2,7 @@ title:              Clean Blog
 email:              wilkinsz@qq.com
 description:        A Blog Theme by Start Bootstrap
 author:             WilkinsZhang
-baseurl:            "/wilkins"
-
+baseurl:            "/wilkinszz"
 url:                "https://wilkinszz.github.io/"
 
 # Social Profiles
@@ -24,3 +23,4 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+theme: jekyll-theme-clean-blog
